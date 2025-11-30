@@ -17,7 +17,7 @@ export default function App() {
       {/* HERO */}
       <section className="px-6 py-16 text-center">
         <h2 className="text-4xl font-extrabold leading-tight">
-          Biznesingizni xaridorlar <span className="text-blue-600">xaritada topa olsin</span>
+          Biznesingizni xaridorlar <span className="text-blue-600">xaritada AI yordamida topa olsin</span>
         </h2>
         <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
           Localify — xizmat va mahsulotlarni lokatsiya asosida xaridorlarga
